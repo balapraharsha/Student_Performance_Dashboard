@@ -72,7 +72,7 @@ The dataset includes student details and performance scores such as:
 📁 Student-Performance-Dashboard  
 ├── Student_Dashboard.pbix     # Power BI project file  
 ├── Student_Dashboard.pdf      # PDF export of dashboard  
-├── student_data.csv           # dataset  
+├── studentPerformance.csv     # dataset  
 └── README.md                  # Project overview  
 
 ```
